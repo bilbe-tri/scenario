@@ -5,4 +5,4 @@ Feature:AuthenticationFeature
     Given I have opened the application
     When I put in valid credentials
     And click login
-    Then I should see my PeRsOnalized home page
+    Then I should see my PeRsOnalized Home page
