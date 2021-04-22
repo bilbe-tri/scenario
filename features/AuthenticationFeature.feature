@@ -5,4 +5,4 @@ Feature:AuthenticationFeature
     Given I have opened the application
     When I put in valid credentials
     And click login
-    Then I should see my PeRsOnalized Home PAGE 14 Apr 1008
+    Then I should see my PeRsOnalized Home PAGE 14 Apr 1034
