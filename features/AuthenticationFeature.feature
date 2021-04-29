@@ -1,5 +1,7 @@
 Feature:
-  <Some interesting description here>
+  Add saw table to workbench
 
   Scenario:
-    <Some interesting scenario steps here>
+    Given I have a workbench
+    When there is room for a table
+    Then add a fold-up table to the left side
