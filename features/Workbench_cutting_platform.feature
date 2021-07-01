@@ -1,4 +1,4 @@
-Feature:
+Feature: Workbench cutting platform
   Add cutting platform to workbench
 
   Scenario:
