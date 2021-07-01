@@ -1,5 +1,7 @@
 Feature:
-  <Some interesting description here>
+  Add cutting platform to workbench
 
   Scenario:
-    <Some interesting scenario steps here>
+    Given I have a workbench
+    When there is no cutting platform
+    Then I want to add a cutting platform
