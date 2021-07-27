@@ -31,4 +31,9 @@ public class Kids_spending_moneyStep {
     public void i_should_have_a_spend_money_button() throws Throwable {
         Assert.assertEquals(true, true);
     }
+    
+    @Then("^i should see my Account balance$")
+    public void i_should_see_my_Account_balance() throws Throwable {
+        Assert.assertEquals(true, true);
+    }
 }
