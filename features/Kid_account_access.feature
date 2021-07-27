@@ -4,4 +4,4 @@ Feature: Kid account access
   Scenario: kid should log in
     Given i am a kid with an account
     When i log in after my parent has made an account
-    Then I should see my Account balance
+    Then i should see my Account balance
