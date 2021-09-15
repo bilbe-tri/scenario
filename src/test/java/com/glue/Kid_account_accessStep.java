@@ -25,4 +25,10 @@ public class Kid_account_accessStep {
     public void i_should_see_a_link_to_add_kids() throws Throwable {
         Assert.assertEquals(true, true);
     }
+    
+    @Then("^something good should happen$")
+public void something_good_should_happen() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
 }
