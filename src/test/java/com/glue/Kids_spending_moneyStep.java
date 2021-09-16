@@ -17,8 +17,8 @@ public class Kids_spending_moneyStep {
         Assert.assertEquals(true, true);
     }
 
-    @Then("^I should be redirected to the ledgar screen$")
-    public void i_should_be_redirected_to_the_ledgar_screen() throws Throwable {
+    @Then("^I should be redirected to the ledger screen$")
+    public void i_should_be_redirected_to_the_ledger_screen() throws Throwable {
         Assert.assertEquals(true, true);
     }
 
