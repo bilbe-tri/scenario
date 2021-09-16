@@ -3,6 +3,6 @@ Feature: Kid account access
 
   Scenario: kid should log out
     Given i am a kid with an account
-    When i log in after my parent has made an account
+    When i log in after my father has made an account
     Then i should see my account balance
     And something good should happen
