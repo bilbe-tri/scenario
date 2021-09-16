@@ -26,7 +26,7 @@ public class Kid_account_accessStep {
         Assert.assertEquals(true, true);
     }
     
-    @Then("^something good should happen$") //modify a comment
+    @Then("^something good should happen$") //change this comment
     public void something_good_should_happen() throws Throwable {
         Assert.assertEquals(true, true);
     }
