@@ -37,11 +37,6 @@ public class Kids_spending_moneyStep {
         Assert.assertEquals(true, true);
     }
     //added 21 Sep 21
-    @Given("^I have a workbench$")
-    public void i_have_a_workbench() throws Throwable {
-    // Write code here that turns the phrase above into concrete actions
-        Assert.assertEquals(true, true);
-    }
 
     @When("^I want to cut things to length$")
     public void i_want_to_cut_things_to_length() throws Throwable {
