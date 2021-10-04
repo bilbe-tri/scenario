@@ -21,6 +21,6 @@ public class WorkbenchCuttingPlatformStep {
   @Then("^I should have a chop saw station$")
   public void add_a_cutting_station() throws Throwable {
       // Write code here that turns the phrase above into concrete actions
-      Assert.assertEquals(true, flase);
+      Assert.assertEquals(true, false);
   }
 }
