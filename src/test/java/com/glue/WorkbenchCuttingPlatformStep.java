@@ -7,7 +7,7 @@ import org.junit.Assert;
 
 public class WorkbenchCuttingPlatformStep {
 
-    @Given("^I have a workbench without a cutting stations$")
+    @Given("^I have a workbench without a cutting station$")
     public void i_have_a_workbench() throws Throwable {
         Assert.assertEquals(true, true);
     }
