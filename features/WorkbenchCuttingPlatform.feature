@@ -1,5 +1,4 @@
-Feature:
-  Workbench options
+Feature: Workbench options
   A workbench should have multiple options for greater versatility
 
   Scenario: Add workbench saw station
