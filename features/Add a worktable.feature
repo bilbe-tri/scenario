@@ -1,5 +1,5 @@
 Feature:
-  <Some interesting description here>
+  I need a worktable on the pool deck
 
   Scenario:
     <Some interesting scenario steps here>
