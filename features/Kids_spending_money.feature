@@ -5,7 +5,7 @@ Feature: Kids spending money
   Scenario: Kid landing page is ledger screen
     Given I am a kid who has an account
     When kid logs in
-    Then I should be Redirected to the ledger screen
+    Then I should be redirected to the ledger screen
 
   Scenario: Kid should see spend money button
     Given I am a logged in kid with an account balance greater than 0
