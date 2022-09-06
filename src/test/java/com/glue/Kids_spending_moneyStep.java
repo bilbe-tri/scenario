@@ -9,7 +9,7 @@ public class Kids_spending_moneyStep {
 
     @Given("^I am a kid who has an account$")
     public void i_am_a_kid_who_has_an_account() throws Throwable {
-        Assert.assertEquals(true, true);
+        Assert.assertEquals(true, false);
     }
 
     @When("^kid logs in$")
