@@ -3,4 +3,5 @@ Feature:
 
   Scenario:
     Given today is Monday
-    Then the shop is closed ee
+    Then the shop is closed
+#modify comment to trigger a build
