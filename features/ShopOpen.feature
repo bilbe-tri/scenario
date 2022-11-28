@@ -3,4 +3,4 @@ Feature:
 
   Scenario:
     Given today is Monday
-    Then the shop is closed dd
+    Then the shop is closed ee
