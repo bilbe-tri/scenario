@@ -3,4 +3,4 @@ Feature:
 
   Scenario:
     Given today is Monday
-    Then the shop is close aa
+    Then the shop is close bb
