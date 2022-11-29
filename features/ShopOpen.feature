@@ -1,5 +1,5 @@
-Feature:
-  We do not sell coffee on Monday
+Feature: Coffee Shop is open
+  The coffee shop is closed on Monday
 
   Scenario:
     Given today is Monday
