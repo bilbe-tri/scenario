@@ -4,4 +4,4 @@ Feature:
   Scenario: The worktable should have a cutting station
     Given My worktable does not have a cutting station
     When I have the money
-    Then I will add a chopsaw
+    Then I will add a 10" chopsaw
