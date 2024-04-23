@@ -7,7 +7,7 @@ const APIToken = "Bearer 8c791e04-6d0c-48e3-bc1c-73f64e0c44f6";
 const project = "93529"	//save as a string
 var fs = require('fs');
 var path = [];
-var depth = 0;		//initialize2
+var depth = 0;		//initialize3
 var testCount = 0;  //initialize
 
 //write the test case data to a csv file
