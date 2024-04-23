@@ -8,7 +8,7 @@ const project = "93529"	//save as a string
 var fs = require('fs');
 var path = [];
 var depth = 0;
-var testCount = 0;
+var testCount = 0;  //initialize
 
 //write the test case data to a csv file
 function saveContent(mod, tc) {
